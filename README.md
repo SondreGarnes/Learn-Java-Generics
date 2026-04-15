@@ -4,7 +4,7 @@ A structured, hands-on curriculum for mastering Java Generics from the ground up
 
 ## How to use this course
 
-1. Fork this repository to your own GitHub account.
+1. Fork or Clone this repository to your own GitHub account.
 2. Read each explanation file in order.
 3. Open the `Tasks` file at the end of each chapter and complete the exercises.
 4. Only look in `Solutions/` after you have made a genuine attempt.
